@@ -52,7 +52,7 @@ ul, ol {
 }
 .nav-link:hover,
 .nav-link:focus {
-    color: #404BBF;
+    color:#404BBF;
 }
 
 .address {
@@ -92,8 +92,15 @@ font-family: inherit;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
-background: #2E2F42;
+background-color: #4D5AE5;
+cursor: pointer;
 }
+
+.hero-button:hover, 
+.hero-button:focus {
+background-color: #404BBF
+}
+
 
 /*DIGNITIES*/
 
